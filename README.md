@@ -4,7 +4,7 @@
 
 [![Generator Build Status][github-actions-generator-image]][github-actions-url] [![Angular Build Status][github-actions-angular-image]][github-actions-url] [![React Build Status][github-actions-react-image]][github-actions-url] [![Vue Build Status][github-actions-vue-image]][github-actions-url] [![Revved up by Gradle Enterprise](https://img.shields.io/badge/Revved%20up%20by-Gradle%20Enterprise-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.jhipster.tech/scans)
 
-Greetings, Java Hipster!
+Greetings, Java Hipster and Thet Paing!
 
 Full documentation and information is available on our website at [https://www.jhipster.tech/][jhipster-url]
 
